@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900">
+<rect width="100%" height="100%" fill="#f2f2f2"/>
+<rect x="55" y="55" width="790" height="790" rx="40" fill="#ffffff"/>
+<ellipse cx="450" cy="760" rx="220" ry="35" fill="#d7d7d7"/>
+<path d="M310 470 C330 350 420 300 520 330 C600 355 650 420 655 500 Z" fill="#1c1c1c"/>
+<path d="M460 500 C560 470 670 480 740 540 C650 565 540 565 450 535 Z" fill="#111"/>
+<text x="485" y="445" fill="#fff" text-anchor="middle" font-size="42" font-family="Arial">BC</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900">
+<rect width="100%" height="100%" fill="#f2f2f2"/>
+<rect x="55" y="55" width="790" height="790" rx="40" fill="#ffffff"/>
+<ellipse cx="450" cy="760" rx="220" ry="35" fill="#d7d7d7"/>
+<path d="M290 330 C310 240 365 200 450 200 C535 200 590 240 610 330 L680 390 L620 500 L575 455 L575 640 C575 665 555 685 530 685 L370 685 C345 685 325 665 325 640 L325 455 L280 500 L220 390 Z" fill="#191919"/>
+<path d="M385 230 C400 285 500 285 515 230" fill="#262626"/>
+<text x="450" y="500" fill="#fff" text-anchor="middle" font-size="34" font-family="Arial">BloomCentury</text>
+</svg>
